@@ -1,1 +1,4 @@
-
+-💫 JavaScript
+-⚡ C++
+-🔥 Python
+-⭐ Java
