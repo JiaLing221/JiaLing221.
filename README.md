@@ -8,7 +8,7 @@
 <h1 style="text-align: left"> Hey there! </h1>
 
 <h2 style="text-align: right"> FUN </h2>
-   <p> <img align="right" width="50%" src="https://media.tenor.com/B4KaZHx5rh4AAAAM/shrimp-cute.gif" />                                                                                     
+   <p> <img align="right" width="50%" src=“https://i.pinimg.com/originals/38/bf/8c/38bf8c31c11789b2da65dff43c401ea2.gif" />                                                                                     
        | 🤷‍♀️ | Name :      <pre> LEONG JIA LING            </p></pre>
        | ⚡ | Matrik No.:      <pre> A24CS0104        </p></pre>
    <p> | 🏫 | Pre-University :   <pre> Malacca Matriculation College   </pre></p> 
